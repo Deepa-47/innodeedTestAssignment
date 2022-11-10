@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/Deepa-47/innodeedTestAssignment/blob/main/logo%20(2).png" width="200px"  height="100px" /></p>
 
 <h1 align="center"> Car Showroom </h1>
-This is a like Car Showroom Website. In which we can see multiple cars and also learn about it.
+This is like a Car Showroom Website. In which we can see multiple cars and also learn about it.
 
 # Live
 https://stunning-twilight-2c1a58.netlify.app
