@@ -6,7 +6,7 @@ This is a like Car Showroom Website. In which we can see multiple cars and also 
 # Live
 https://stunning-twilight-2c1a58.netlify.app
 
-## Feactures
+## Features
 * Responsive
 * Slider
 * View all details of specific car
