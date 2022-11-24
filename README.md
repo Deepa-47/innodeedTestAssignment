@@ -14,7 +14,7 @@ https://celebrated-tapioca-075ba1.netlify.app/
 
 ## Screenshots
 ## Slider
-![Screenshot (82)](https://user-images.githubusercontent.com/76946978/201020997-4da4cfd8-d343-432e-ad38-56b599f1205e.png)
+![Screenshot (113)](https://user-images.githubusercontent.com/76946978/203732856-967e3ffb-37ad-40c9-b790-aff007c95ff8.png)
 ## Car details
 ![Screenshot (80)](https://user-images.githubusercontent.com/76946978/201021033-632a27be-224a-4af5-bdcc-ee62e3a13c89.png)
 ## Filter data
